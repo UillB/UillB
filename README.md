@@ -12,7 +12,7 @@ Carrying all three toolboxes is what keeps senior-era output honest: I know when
 
 ## Selected work
 
-- **[Appointexo](https://www.appointexo.com)** - multi-tenant booking SaaS with Telegram AI bot. React, Node, Prisma, PostgreSQL. 12 paying customers organically.
+- **[Appointexo](https://www.appointexo.com)** - multi-tenant booking SaaS with a Telegram AI bot, web admin and mobile app. React, Node, Prisma, PostgreSQL.
 - **[ClipQuote](https://www.clip-quote.com)** - privacy-first Chrome extension (MV3, TypeScript) for capturing quotes with citations. 500 users in 2 weeks on Chrome Web Store.
 - **Portfolio** - [vladibworks.com](https://www.vladibworks.com)
 
@@ -30,5 +30,5 @@ TypeScript, React, Next.js, Angular, Node.js, Express, Prisma, PostgreSQL, OpenA
 
 - Tel Aviv, Israel
 - [LinkedIn](https://linkedin.com/in/vburdenkov)
-- vovburdenkov@gmail.com
+- [hello@vladibworks.com](mailto:hello@vladibworks.com)
 - [vladibworks.com](https://www.vladibworks.com)
